@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Foobar - 3rd semester exam",
+    "semester": 3,
+    "link": "http://liatalony.com/kea/3sem/exam-liat/",
+    "desc": "A web app where you can order your drinks through your phone instead of having to wait at the bar.",
+    "img": "images/foobar.jpg"
+  },
+  {
+    "name": "The Light Bulb",
+    "semester": 3,
+    "link": "http://liatalony.com/kea/3sem/the-light-bulb/",
+    "desc": "A presentation about the light bulb for the museum of science for their upcoming exhibition about inventions that changed the world.",
+    "img": "images/light.jpg"
+  },
+  {
+    "name": "Best Picture Award",
+    "semester": 2,
+    "link": "https://liatalony.github.io/Squad-Movies/",
+    "desc": "This site shows all the winners of Best Picture Award throughout the years.",
+    "img": "images/movies.jpg"
+  },
+  {
+    "name": "Neda Art",
+    "semester": 2,
+    "link": "http://liatalony.com/kea/2sem/Exam/",
+    "desc": "Our goal was to create an online presence for our client - an artist. we created a website using Wordpress as our backend.",
+    "img": "images/neda.jpg"
+  },
+  {
+    "name": "Kanban",
+    "semester": 3,
+    "link": "http://liatalony.com/kea/3sem/trello-model/",
+    "desc": "A to-do list with the option of creating new projects.",
+    "img": "images/kanban.jpg"
+  },
+  {
+    "name": "Monty Python",
+    "semester": 1,
+    "link": "http://liatalony.com/kea/1sem/animation/monty-python/",
+    "desc": "Creating an interactive poster for a classic movie to get the younger generation to want to see the movie.",
+    "img": "images/monty-python.jpg"
+  },
+  {
+    "name": "First Semester Portfolio",
+    "semester": 1,
+    "link": "http://liatalony.com/kea/1sem/portfolio",
+    "desc": "Created a responsive portfolio that presents the knowledge i aquirred and projects i created during my first semester at MMD",
+    "img": "images/1semportfolio.jpg"
+  },
+  {
+    "name": "DXC",
+    "semester": 3,
+    "link": "http://pjmelite.dk/KEA_3Semester/DXC_Asset_Project/",
+    "desc": "Created a landing page for an assest our client is offering, with a focus on the sign-up form.",
+    "img": "images/dxc.jpg"
+  }
+]
